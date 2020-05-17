@@ -1,3 +1,6 @@
 hello world
 hello nice too see you
 baga
+def qiuhe(a, b):
+	return a+b
+	
